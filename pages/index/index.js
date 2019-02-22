@@ -3,6 +3,7 @@
 const app = getApp()
 
 Page({
+  // 第2次修改代码
   data: {
     motto: 'Hello World  test git 第一次修改',
     userInfo: {},
