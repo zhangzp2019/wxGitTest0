@@ -2,6 +2,8 @@
 //获取应用实例
 const app = getApp()
 
+//  tttt
+
 Page({
   // 第2次修改代码
   data: {
